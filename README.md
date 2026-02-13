@@ -6,3 +6,6 @@
 
 > [!IMPORTANT]
 > if windows vista is still slow try windows 7
+
+> [!NOTE]
+> This malware doesn't work on Windows XP
