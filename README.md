@@ -5,11 +5,11 @@
 > i'm NOT responsible for any damage made to your computer.
 
 > [!IMPORTANT]
-> if windows vista is still slow try windows 7
+> if Windows Vista Is still slow try Windows 7
 
 > [!NOTE]
 > This malware doesn't work on Windows XP
 
 > [!TIP]
-> if you want to run it on Windows xp you need to install One-Core-API-Binaries.
+> if you want to run it on Windows XP you need to install One-Core-API-Binaries.
 > you can't trust my malwares
