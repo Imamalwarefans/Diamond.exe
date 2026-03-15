@@ -9,3 +9,4 @@
 
 > [!NOTE]
 > This malware doesn't work on Windows XP
+> you can only run windows xp using one core api binaries
